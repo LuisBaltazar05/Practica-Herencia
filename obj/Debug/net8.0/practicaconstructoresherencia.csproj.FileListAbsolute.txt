@@ -1,0 +1,14 @@
+D:\tuntu\Desktop\Trabajos 3\C#\5\practicaconstructoresherencia\practicaconstructoresherencia\obj\Debug\net8.0\practicaconstructoresherencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\tuntu\Desktop\Trabajos 3\C#\5\practicaconstructoresherencia\practicaconstructoresherencia\obj\Debug\net8.0\practicaconstructoresherencia.AssemblyInfoInputs.cache
+D:\tuntu\Desktop\Trabajos 3\C#\5\practicaconstructoresherencia\practicaconstructoresherencia\obj\Debug\net8.0\practicaconstructoresherencia.AssemblyInfo.cs
+D:\tuntu\Desktop\Trabajos 3\C#\5\practicaconstructoresherencia\practicaconstructoresherencia\obj\Debug\net8.0\practicaconstructoresherencia.csproj.CoreCompileInputs.cache
+D:\tuntu\Desktop\Trabajos 3\C#\5\practicaconstructoresherencia\practicaconstructoresherencia\bin\Debug\net8.0\practicaconstructoresherencia.exe
+D:\tuntu\Desktop\Trabajos 3\C#\5\practicaconstructoresherencia\practicaconstructoresherencia\bin\Debug\net8.0\practicaconstructoresherencia.deps.json
+D:\tuntu\Desktop\Trabajos 3\C#\5\practicaconstructoresherencia\practicaconstructoresherencia\bin\Debug\net8.0\practicaconstructoresherencia.runtimeconfig.json
+D:\tuntu\Desktop\Trabajos 3\C#\5\practicaconstructoresherencia\practicaconstructoresherencia\bin\Debug\net8.0\practicaconstructoresherencia.dll
+D:\tuntu\Desktop\Trabajos 3\C#\5\practicaconstructoresherencia\practicaconstructoresherencia\bin\Debug\net8.0\practicaconstructoresherencia.pdb
+D:\tuntu\Desktop\Trabajos 3\C#\5\practicaconstructoresherencia\practicaconstructoresherencia\obj\Debug\net8.0\practicaconstructoresherencia.dll
+D:\tuntu\Desktop\Trabajos 3\C#\5\practicaconstructoresherencia\practicaconstructoresherencia\obj\Debug\net8.0\refint\practicaconstructoresherencia.dll
+D:\tuntu\Desktop\Trabajos 3\C#\5\practicaconstructoresherencia\practicaconstructoresherencia\obj\Debug\net8.0\practicaconstructoresherencia.pdb
+D:\tuntu\Desktop\Trabajos 3\C#\5\practicaconstructoresherencia\practicaconstructoresherencia\obj\Debug\net8.0\practicaconstructoresherencia.genruntimeconfig.cache
+D:\tuntu\Desktop\Trabajos 3\C#\5\practicaconstructoresherencia\practicaconstructoresherencia\obj\Debug\net8.0\ref\practicaconstructoresherencia.dll
